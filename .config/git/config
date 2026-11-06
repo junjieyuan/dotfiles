@@ -1,5 +1,6 @@
 [user]
 	name = 原俊杰
 	email = yuan@junjie.pro
+	signingkey = 198C13F25E83928F!
 [init]
 	defaultBranch = master
